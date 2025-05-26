@@ -16,6 +16,8 @@
 ### 🔐 Cybersecurity & Cryptography
 - 🔐 [AES, RSA, Ceasar Encryption Tools](https://github.com/zuhrashavkatova/Cryptography.git) – Encrypt/Decrypt with AES, RSA, Caesar
 - 🔎 [Hashing Tool](https://github.com/zuhrashavkatova/Cryptography.git) – Hash with MD5, SHA1, SHA256
+- 🔎 [Cybersecurity]( https://github.com/zuhrashavkatova/Cybersecurity) – Kali Linux commands | Pen Testing fundamentals | Real-world security practice 
+-
 
 ### 🤖 Bots
 - 🤖 [All Bots](https://github.com/zuhrashavkatova/Telegram-Bots.git) – You can get information about all the bots and get acquainted with them through this link.
