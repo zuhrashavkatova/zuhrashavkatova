@@ -1,13 +1,13 @@
 # 👩‍💻 Zuhra Shavkatova
 
 🎓 3rd-year Software Engineering student  
-🔐 Focus: Cybersecurity | Cryptography | Python | Mobile | Web Development   
+🔐 Focus: Cybersecurity | Cryptography | Python | Mobile | Web Development | Learner 
 
 ## 🌟 Skills
 - Cryptography (AES, RSA, Caesar, Hashing)
 - Python (Security tools, automation, bots)
-- Git & GitHub
-- Basic Linux & System Administration
+- Git & GitHub, GitLab
+- Basic Linux(ubuntu, Kali Linux) & System Administration
 - Django & Web Development
 - Flutter & Mobile App Development
 
