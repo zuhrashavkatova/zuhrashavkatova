@@ -34,7 +34,7 @@
 
 ### 🌐 Web Projects
 - 🩺 [PredictionDiseases](https://github.com/zuhrashavkatova/smart-health.git) – Disease prediction using ML (Web app with Django)
-- 🎮 [Maze Quest]() – Puzzle adventure game with Unity
+- 🎮 [Maze Quest](https://zuhra-shavkatova.itch.io/mazequest) – Puzzle adventure game with Unity
 
 ## 📫 Contact
 - Email: zuhrashavkatova523@gmail.com  
