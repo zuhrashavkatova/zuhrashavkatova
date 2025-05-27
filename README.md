@@ -34,7 +34,9 @@
 
 ### 🌐 Web Projects
 - 🩺 [PredictionDiseases](https://github.com/zuhrashavkatova/smart-health.git) – Disease prediction using ML (Web app with Django)
-- 🎮 [Maze Quest](https://zuhra-shavkatova.itch.io/mazequest) – Puzzle adventure game with Unity
+- 🛒 [Fast Food Shop Web App](https://github.com/zuhrashavkatova/Fast-Food-Shop) – Online food ordering system with cart and admin dashboard (Django).
+- 🍽️ [Restaurant Management System](https://github.com/zuhrashavkatova/restaurant-management-system) – Django-based system to manage menus, orders, and customers.
+- 🎮 [Maze Quest](https://zuhra-shavkatova.itch.io/mazequest) – 3D Puzzle adventure game with Unity 
 
 ## 📫 Contact
 - Email: zuhrashavkatova523@gmail.com  
